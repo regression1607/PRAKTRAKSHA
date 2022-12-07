@@ -1,35 +1,3 @@
-<!-- Meta-Badges -->
-</p>
-
-<p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/pitmonticone/PlantDiseaseClassification">
-  </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/pitmonticone/PlantDiseaseClassification">
-  </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/pitmonticone/PlantDiseaseClassification">
-  </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/pitmonticone/PlantDiseaseClassification">
-  </a>
-  <a href="https://github.com/pitmonticone/NeuralNetworksProject/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/pitmonticone/PlantDiseaseClassification">
-  </a>
-  <img alt="Licence" src="https://img.shields.io/github/license/pitmonticone/PlantDiseaseClassification">
-  </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpitmonticone%2FPlantDiseaseClassification"
-  </a>
-  
-</p>
-
-<!-- Title -->
-<h1 align="center">
-  Plant Disease Classification
-</h1>
-
-<!-- Subtitle -->
-<h3 align="center">
-  Dataset Analysis and CNN Models Optimization 
-</h3>
-
 <!-- Badges -->
 </p>
 
@@ -37,22 +5,24 @@
   <a href="https://www.kaggle.com/inphyt2020/neuralnetworksproject">
     <img alt="Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg">
   </a>
-  <a href="https://nbviewer.jupyter.org/github/pitmonticone/PlantDiseaseClassification">
+  <a href="https://nbviewer.jupyter.org/github/pitmonticone/PlantDiseaseClassification/">
     <img alt="nbviewer" src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg">
   </a>
-  <a href="https://colab.research.google.com/github/InPhyT/Plant_Disease_Classification_CNN/blob/master">
+  <a href="https://colab.research.google.com/github/InPhyT/NeuralNetworksProject/blob/master">
     <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
   </a>
-  
+
+<!-- Title -->
+<h1 align="center">
+  Dataset Analysis & CNN Models Optimization for Plant Disease Classification 
+</h1>
+
+<!-- Subtitle -->
+<h3 align="center">
+  Recognition of Foliar Diseases in Apple Trees
+</h3>
+
 </p>
-
-## How to Explore this Work
-
-* Read the report in [PDF](https://pitmonticone.github.io/PlantDiseaseClassification/Report/report.pdf) or [HTML](https://pitmonticone.github.io/PlantDiseaseClassification/Report/report.html) format.
-* Read the code in the [Jupyter notebook](https://nbviewer.jupyter.org/github/pitmonticone/PlantDiseaseClassification/blob/master/Notebooks/notebook.ipynb).
-* Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/neuralnetworksproject).
-
-## Extended Abstract
 
 ### Problem 
 
@@ -86,6 +56,12 @@ Both the training and the testing [datasets](https://www.kaggle.com/c/plant-path
 
 * **ROC = 0.972** applying the pre-trained Keras model [`DenseNet121`](https://keras.io/api/applications/densenet/#densenet121-function).
 * **ROC = 0.937** applying a CNN which has been defined and trained from scratch. 
+
+### Online Contents
+
+* Read the report in [PDF](https://inphyt.github.io/NeuralNetworksProject/Report/report.pdf) or [HTML](https://inphyt.github.io/NeuralNetworksProject/Report/report.html) format.
+* Read the code in the [Jupyter notebook](https://nbviewer.jupyter.org/github/pitmonticone/PlantDiseaseClassification/blob/master/Notebooks/notebook.ipynb).
+* Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/neuralnetworksproject).
 
 ### References 
 
